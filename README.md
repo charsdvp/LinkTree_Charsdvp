@@ -1,2 +1,3 @@
 # LinkTree Chars
-User image taken from [pexels](https://www.pexels.com/es-es/foto/colorido-aves-juguetes-bolas-12299686/)
+
+Here you will find all my social media accounts -> [LinkTree Chars]("https://charsdvp.github.io/LinkTree_Charsdvp/")

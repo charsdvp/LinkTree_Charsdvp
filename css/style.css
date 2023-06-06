@@ -1,12 +1,18 @@
+/*********************** Quicksand ***********************/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+::selection{
+  color: #fff3ec;
+  background-color: #ff8906;
+}
 body{
   color: #fff3ec;
-  background:#271c19;
-  font-family: system-ui;
+  background:#0f0e17;
+  font-family: 'Quicksand', sans-serif;
 }
 .contenedor{
   width: 100%;
@@ -57,7 +63,7 @@ body{
 }
 .link__social:active, .link__social:hover{
   transition: .3s all;
-  background: #55423d;
+  background: #ff8906;
 }
 .footer__texto{
   margin: 0 auto;
